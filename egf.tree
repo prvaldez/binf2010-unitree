@@ -1,0 +1,41 @@
+(
+(
+(
+Canis_lupus_familiaris:0.07114,
+Felis_catus:0.05872)
+:0.02993,
+Sus_scrofa:0.08439)
+:0.01400,
+Homo_sapiens:0.09210,
+(
+Mus_musculus:0.11026,
+Rattus_norvegicus:0.09700)
+:0.13104);
+
+# the following is NOT Newick style output
+
+(
+	(
+		(
+			Canis_lupus_familiaris:0.07114,
+			Felis_catus:0.05872
+		):0.02993,
+		Sus_scrofa:0.08439
+	):0.01400,
+	Homo_sapiens:0.09210,
+	(
+		Mus_musculus:0.11026,
+		Rattus_norvegicus:0.09700
+	):0.13104
+);
+
+
+
+
+
+
+
+
+
+
+
